@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\mamun\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_expenses_drawer.xml",
+        "source": "C:\\Users\\mamun\\AndroidStudioProjects\\Expenses\\app\\src\\main\\res\\menu\\activity_expenses_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mamun\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\menu\\expenses.xml",
+        "source": "C:\\Users\\mamun\\AndroidStudioProjects\\Expenses\\app\\src\\main\\res\\menu\\expenses.xml"
+    }
+]
